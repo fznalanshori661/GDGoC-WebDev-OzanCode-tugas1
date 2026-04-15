@@ -133,14 +133,6 @@ event-fzn/
 - **Gradient Accents**: Subtle purple-blue gradients
 - **Custom Cursor**: Interactive cursor with follower effect
 
-## Footer Social Links
-
-- X (Twitter): @fznalanshori661
-- LinkedIn: linkedin.com/in/fznalanshori661
-- Instagram: @fznalanshori661
-- Email: hello@eventfzn.com
-- GitHub: github.com/fznalanshori661
-
 ## Created By
 
 fznalanshori661
